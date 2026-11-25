@@ -73,4 +73,4 @@ Single-snapshot public dataset (no out-of-time validation); the Chennai setting 
 
 ## Author
 
-[Soniya Singh] · B.Tech CSE (AI/ML), SSTC Bhilai
+[Soniya Singh] · B.Tech CSE (AI/ML)
