@@ -1,0 +1,8 @@
+setting,LogReg AUC,GradBoost AUC,LogReg Δ vs all,GB Δ vs all
+All engineered features,0.8468,0.8462,0.0,0.0
+No engineered features,0.8456,0.8472,-0.0012,0.001
+"Drop ""tenure"" family",0.8452,0.8465,-0.0016,0.0002
+"Drop ""charges"" family",0.8475,0.8469,0.0006,0.0007
+"Drop ""bundles"" family",0.8467,0.847,-0.0001,0.0007
+"Drop ""contract"" family",0.8468,0.8463,-0.0,0.0
+"Drop ""risk"" family",0.847,0.8458,0.0001,-0.0005

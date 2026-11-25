@@ -1,0 +1,5 @@
+segment,customers,actual_churn,avg_pred,avg_monthly,avg_tenure,share_mtm,share_of_churners
+A. New month-to-month,350,0.569,0.565,62.509,3.937,1.0,0.532
+B. Unsupported fiber users,169,0.462,0.473,89.407,33.047,0.876,0.209
+C. Price-sensitive / at-risk other,160,0.275,0.307,82.208,32.756,0.819,0.118
+D. Low risk – keep warm,730,0.073,0.067,55.014,44.884,0.197,0.142

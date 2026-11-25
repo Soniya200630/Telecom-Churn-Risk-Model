@@ -1,0 +1,34 @@
+{
+  "model": "Random Forest",
+  "threshold": 0.16499999999999998,
+  "test_auc": 0.846907695884678,
+  "test_pr_auc": 0.6569038616528221,
+  "lift_top2": 2.5249459551712365,
+  "capture_top2": 0.5053475935828877,
+  "result": {
+    "Threshold": 0.16499999999999998,
+    "Precision": 0.4727540500736377,
+    "Recall": 0.8582887700534759,
+    "TP": 321.0,
+    "FP": 358.0,
+    "FN": 53.0,
+    "TN": 677.0,
+    "Cost (model)": 623.0,
+    "Cost (offer nobody)": 1870.0,
+    "Cost (offer everybody)": 1035.0,
+    "Cost (random, same volume)": 1468.2,
+    "Saving vs best naive %": 39.8
+  },
+  "top_shap": {
+    "is_month_to_month": 0.0580397535385359,
+    "Contract_Month-to-month": 0.04936058517771199,
+    "InternetService_Fiber optic": 0.037375831729901436,
+    "tenure": 0.03590357158815662,
+    "fiber_no_support": 0.034221479239099434,
+    "Contract_Two year": 0.026197196574692258,
+    "PaymentMethod_Electronic check": 0.022178872504489362,
+    "tenure_band_0-6m": 0.017425454203891175,
+    "is_new_customer": 0.01732389978339529,
+    "TotalCharges": 0.017007066368450847
+  }
+}
